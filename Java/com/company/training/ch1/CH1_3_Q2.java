@@ -1,4 +1,4 @@
-package com.company.java.training.ch1;
+package com.company.training.ch1;
 
 class Bird2 {
     Bird2(int i){

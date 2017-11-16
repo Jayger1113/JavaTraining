@@ -1,4 +1,4 @@
-package com.company.java.training.ch1;
+package com.company.training.ch1;
 
 public class Ch1_1_Q3 {
     Integer n1 = new Integer(5566);

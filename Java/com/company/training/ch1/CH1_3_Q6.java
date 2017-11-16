@@ -1,4 +1,4 @@
-package com.company.java.training.ch1;
+package com.company.training.ch1;
 
 class Animal{
     Animal(int n){
@@ -9,6 +9,7 @@ class Animal{
 
 public class CH1_3_Q6 {
     Animal a1 = new Animal(1);
+    Animal a4;
 
     CH1_3_Q6(){
         System.out.println("CH1_3_Q6 constructor complete");
@@ -17,12 +18,14 @@ public class CH1_3_Q6 {
     Animal a3 = new Animal(3);
 
     {
+        a4 = new Animal(4);
         System.out.println("CH1_3_Q6 initialize block complete");
     }
+
     Animal a2 = new Animal(2);
 
     public static void main(String[] args) {
-        CH1_3_Q6 c  = new CH1_3_Q6();
+        CH1_3_Q6 obj  = new CH1_3_Q6();
     }
 
 }

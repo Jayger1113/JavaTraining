@@ -1,4 +1,4 @@
-package com.company.java.training.ch1;
+package com.company.training.ch1;
 
 public class CH1_1_Q2 {
 
