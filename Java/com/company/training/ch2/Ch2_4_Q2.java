@@ -16,6 +16,6 @@ class BadGuy extends People{
 
 public class Ch2_4_Q2 {
     public static void main(String[] args) {
-        BadGuy badgGuy = new BadGuy();
+        BadGuy badGuy  = new BadGuy();
     }
 }

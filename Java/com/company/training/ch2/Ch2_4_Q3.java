@@ -8,6 +8,16 @@ class Cloth{
 }
 
 class TShirt extends Cloth{
+    /*
+    Tshirt extends Cloth member size ,
+    However, derived class can also have it's own same naming field.
+    And then make it's own field encapsulation
+    Ex:
+    private String size = "TShirt defualt size";
+    protected String size = "TShirt defualt size";
+    public String size = "TShirt defualt size";
+    String size = "TShirt defualt size";
+    */
     TShirt(String size){
         super(size);
         this.size = size;
