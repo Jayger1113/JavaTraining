@@ -9,7 +9,7 @@ class Bird2 {
     }
 }
 
-public class CH1_3_Q2 {
+public class CH1_Class_Object_initialize_finalize_Q2 {
 
     public static void main(String[] args) {
         //Bird2 bird2 = new Bird2();//can't compile because you don't have no arg constructor

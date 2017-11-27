@@ -24,7 +24,7 @@ class Book{
         }
     }
 }
-public class CH1_3_Q5 {
+public class CH1_Class_Object_initialize_finalize_Q5 {
     public static void main(String[] args) {
         Book harryPotter = new Book("harryPotter");
         harryPotter.checkout();

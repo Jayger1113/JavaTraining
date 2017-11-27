@@ -26,7 +26,7 @@ class TShirt extends Cloth{
     }
 }
 
-public class Ch2_4_Q3 {
+public class Ch2_Inheritance_Q3 {
     public static void main(String[] args) {
         TShirt tShirt = new TShirt("XXXS");
     }

@@ -21,7 +21,7 @@ class Son extends Father{
     }
 }
 
-public class Ch2_4_Q8 {
+public class Ch2_Inheritance_Q8 {
     public static void main(String[] args) {
         Son son = new Son();
         son.foo();

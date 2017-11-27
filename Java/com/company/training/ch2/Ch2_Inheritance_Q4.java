@@ -27,7 +27,7 @@ class SlaveMachine extends Machine{
     }
 }
 
-public class Ch2_4_Q4 {
+public class Ch2_Inheritance_Q4 {
     public static void main(String[] args) {
         SlaveMachine slaveMachine = new SlaveMachine();
         slaveMachine.working();

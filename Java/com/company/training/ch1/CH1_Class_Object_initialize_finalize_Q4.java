@@ -34,7 +34,7 @@ class Car {
     }
 }
 
-public class CH1_3_Q4 {
+public class CH1_Class_Object_initialize_finalize_Q4 {
     public static void main(String[] args) {
         Cars.staticCar1.factory(1);
         Cars carMakers = new Cars();

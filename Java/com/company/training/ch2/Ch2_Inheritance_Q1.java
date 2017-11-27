@@ -18,7 +18,7 @@ class BadCat extends Cat{
     }
 }
 
-public class Ch2_4_Q1 {
+public class Ch2_Inheritance_Q1 {
     public static void main(String[] args) {
         BadCat badCat = new BadCat();
     }

@@ -19,7 +19,7 @@ class MacBook extends NoteBook{
     }
 }
 
-public class Ch2_4_Q6 {
+public class Ch2_Inheritance_Q6 {
     public static void main(String[] args) {
         NoteBook macBook = new MacBook();
         macBook.boot();

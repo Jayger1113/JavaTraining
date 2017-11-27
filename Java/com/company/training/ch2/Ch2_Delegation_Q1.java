@@ -13,7 +13,7 @@ class DelegationExample{
     }
 }
 
-public class Ch2_3_Q1 {
+public class Ch2_Delegation_Q1 {
     DelegationExample mDelegationExample = null;
     public static void main(String[] args) {
         DelegationExample mDelegationExample = new DelegationExample();

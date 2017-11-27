@@ -26,7 +26,7 @@ class Bird3{
     }
 }
 
-public class CH1_3_Q3 {
+public class CH1_Class_Object_initialize_finalize_Q3 {
     public static void main(String[] args) {
         Bird3 bird3_1 = new Bird3();
         Bird3 bird3_2 = new Bird3(5,"I can fly higher");

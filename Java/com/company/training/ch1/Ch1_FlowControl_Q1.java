@@ -1,7 +1,7 @@
 package com.company.training.ch1;
 
 
-public class Ch1_2_Q1 {
+public class Ch1_FlowControl_Q1 {
     public static void main(String[] args) {
         testSwitchCase(0);
         testSwitchCase(1);

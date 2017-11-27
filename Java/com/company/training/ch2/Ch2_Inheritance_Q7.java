@@ -16,10 +16,10 @@ class TestFinalKeyWordExample{
     }
 }
 
-public class Ch2_4_Q7 {
+public class Ch2_Inheritance_Q7 {
     public static void main(String[] args) {
-        TestFinalKeyWordExample testFinalKeyWordExample = new TestFinalKeyWordExample();
-        testFinalKeyWordExample.testFunction("Test Final keyword success");
+        TestFinalKeyWordExample instance = new TestFinalKeyWordExample();
+        instance.testFunction("Test Final keyword success");
 
     }
 }

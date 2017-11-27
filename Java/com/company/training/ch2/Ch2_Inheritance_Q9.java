@@ -19,7 +19,7 @@ class Example extends FinalClassExmaple{
     }
 }
 
-public class Ch2_4_Q9 {
+public class Ch2_Inheritance_Q9 {
 
     public static void main(String[] args) {
         Example example = new Example();
