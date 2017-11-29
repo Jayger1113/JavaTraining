@@ -5,6 +5,11 @@ package com.company.training.ch3;
 public enum Activity {
     onCreate,onReStart,onStart,onResume,onPause,onStop,onDestroy
 }
+public class Ch3_Enum_Q1 {
+    public static void main(String[] args) {
+
+    }
+}
 */
 
 
