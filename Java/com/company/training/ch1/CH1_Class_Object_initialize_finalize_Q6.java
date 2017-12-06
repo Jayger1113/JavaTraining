@@ -2,8 +2,7 @@ package com.company.training.ch1;
 
 /*
 initialize principle
-1. member
-2. non-static initialize block
+1. member,non-static initialize block (depend on which define first, if member first , member initialize first, vice versa)
 3. constructor
  */
 
