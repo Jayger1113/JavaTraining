@@ -1,5 +1,12 @@
 package com.company.training.ch1;
 
+/*
+initialize principle
+1. member
+2. non-static initialize block
+3. constructor
+ */
+
 class Animal{
     Animal(int n){
         System.out.println("animal "+n);

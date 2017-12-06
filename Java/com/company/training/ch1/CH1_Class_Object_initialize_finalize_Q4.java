@@ -1,6 +1,14 @@
 package com.company.training.ch1;
 
+/* Initialize principle
+#static member
+1. static block
+2. constructor
 
+#non-static member
+1. non-static initialized block
+2. constructor
+*/
 class Cars{
     static Car staticCar1;
     static Car staticCar2;
